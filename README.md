@@ -7,6 +7,6 @@ Neither usernames, nor credentials, nor hashes are stored in the container, save
 </blockquote>
 <br><br>
 <p align="center">
-<a href="https://github.com/griffin-container/griffin#readme" title="Explore GRIFFIN">Explore GRIFFIN</a>
+<a href="https://github.com/griffin-container/griffin#readme" title="Explore GRIFFIN"><b>Explore GRIFFIN</b></a>
 </p>
 <br><br>
