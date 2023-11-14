@@ -6,4 +6,4 @@ Read-only 100% offline secure multi-user container in a single HTML file that re
 <p align="center">
 <a href="https://github.com/griffin-container/griffin#readme" title="Explore GRIFFIN"><b>Explore GRIFFIN</b></a>
 </p>
-<br><br>
+<br>
